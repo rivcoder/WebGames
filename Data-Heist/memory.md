@@ -1,0 +1,1 @@
+update the core details of the project here like whats done whats pending whats broken etc key insights of the project everytime you do a task so that it will be easier to remeber whats done and whats pending.
